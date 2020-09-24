@@ -1,5 +1,5 @@
-# Interaction Design (CMSI-370)
-# Design Dream Team
+## CMSI-370: Interaction Design 
+### Design Dream Team
 
 Team Members:
 * Josh Seaman
