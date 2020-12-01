@@ -1,4 +1,8 @@
-## CMSI-370: Interaction Design 
+# Gather
+https://gatherweb.vercel.app/
+
+## A web-app created for CMSI-370 Fall 2020
+
 ### Design Dream Team
 
 Team Members:
